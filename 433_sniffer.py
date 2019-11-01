@@ -9,6 +9,7 @@ This module provides two classes to use with wireless 433MHz fobs.
 The rx class decodes received fob codes. The tx class transmits
 fob codes.
 It uses homemade wrapper for logging_iot
+
 """
 
 from logging_iot import my_logger
